@@ -25,14 +25,26 @@
 }
 #miaTabella{
     width: 100%;
+    margin: 0;
 }
 h1{
     margin-bottom: 0;
-    font-size: 80px;
+    font-size: 70px;
 }
 .listaSinistra{
     margin-left: 0;
 }
 .titolibianchi{
+    text-align: left;
     color: white;
+    width: 1%;
 }
+.sfondoceleste{
+    background-color: aqua;
+}
+ul {
+    margin-left: -25px;
+}
+table {
+    border-collapse: collapse;
+  }
