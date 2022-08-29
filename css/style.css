@@ -1,15 +1,21 @@
 #logo {
-    width: 150px;
+    width: 250px;
     color: white;
-    padding: top 100px;
+    padding: top 150px;
 }
 .sfondo-header{
-    height: 50px;
+    height: 80px;
     background-image: url("../img/pattern.png");
     background-color:rgb(29, 120, 180);
     background-size: contain;
     padding-top: 60px;
     
+}
+#tim1{
+    width: 900px;
+}
+#tim2{
+    width: 770px;
 }
 #scrittore{
     color: aqua;
@@ -22,6 +28,7 @@
 }
 h1{
     margin-bottom: 0;
+    font-size: 80px;
 }
 .listaSinistra{
     margin-left: 0;
