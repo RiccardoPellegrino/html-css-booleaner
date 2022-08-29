@@ -3,48 +3,72 @@
     color: white;
     padding: top 150px;
 }
-.sfondo-header{
+
+.sfondo-header {
     height: 80px;
     background-image: url("../img/pattern.png");
-    background-color:rgb(29, 120, 180);
+    background-color: rgb(29, 120, 180);
     background-size: contain;
     padding-top: 60px;
-    
+
 }
-#tim1{
-    width: 900px;
+
+#tim1 {
+    width: 53%;
 }
-#tim2{
-    width: 770px;
+
+#tim2 {
+    width: 45%;
 }
-#scrittore{
+
+#scrittore {
     color: aqua;
 }
-.scritta-in-grigio{
+
+.scritta-in-grigio {
     color: grey;
 }
-#miaTabella{
+
+#miaTabella {
     width: 100%;
     margin: 0;
 }
-h1{
+
+h1 {
     margin-bottom: 0;
     font-size: 70px;
 }
-.listaSinistra{
+
+.listaSinistra {
     margin-left: 0;
 }
-.titolibianchi{
+
+.titolibianchi {
     text-align: left;
     color: white;
     width: 1%;
 }
-.sfondoceleste{
+
+.sfondoceleste {
     background-color: aqua;
 }
+
 ul {
     margin-left: -25px;
 }
+
 table {
     border-collapse: collapse;
-  }
+}
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.top-left {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    font-size: 30px;
+}
