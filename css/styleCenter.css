@@ -1,0 +1,91 @@
+body {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 140px;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+#logo {
+    width: 250px;
+    color: white;
+    padding: top 150px;
+}
+
+.sfondo-header {
+    height: 80px;
+    background-image: url("../img/pattern.png");
+    background-color: rgb(29, 120, 180);
+    background-size: contain;
+    padding-top: 60px;
+
+}
+
+#tim1 {
+    width: 53%;
+}
+
+#tim2 {
+    width: 45%;
+}
+
+#scrittore {
+    color: aqua;
+}
+
+.scritta-in-grigio {
+    color: grey;
+}
+
+#miaTabella {
+    width: 100%;
+    margin: 0;
+}
+
+h1 {
+    margin-bottom: 0;
+    font-size: 70px;
+}
+
+.listaSinistra {
+    margin-left: 0;
+}
+
+.titolibianchi {
+    text-align: left;
+    color: white;
+    width: 1%;
+}
+
+.sfondoceleste {
+    background-color: aqua;
+}
+
+ul {
+    margin-left: -25px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.container {
+    position: relative;
+    color: white;
+    width: fit-content;
+    margin: auto;
+}
+
+.top-left {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    font-size: 30px;
+}
+
