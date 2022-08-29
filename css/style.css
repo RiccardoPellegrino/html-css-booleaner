@@ -1,24 +1,31 @@
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 #logo {
     width: 150px;
     color: white;
     padding: top 100px;
 }
 .sfondo-header{
+    height: 50px;
     background-image: url("../img/pattern.png");
     background-color:rgb(29, 120, 180);
     background-size: contain;
-    height: 100px;
     padding-top: 60px;
+    
 }
 #scrittore{
     color: aqua;
 }
 .scritta-in-grigio{
     color: grey;
+}
+#miaTabella{
+    width: 100%;
+}
+h1{
+    margin-bottom: 0;
+}
+.listaSinistra{
+    margin-left: 0;
+}
+.titolibianchi{
+    color: white;
 }
